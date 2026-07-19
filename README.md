@@ -27,13 +27,7 @@ Coding-Practice/
 - Strengthen coding skills for technical interviews.
 - Build a well-organized coding portfolio.
 
-## 📈 Progress
 
-| Difficulty | Solved |
-|------------|--------|
-| Easy | 2 |
-| Medium | 0 |
-| Hard | 0 |
 
 > This repository will be updated regularly as I solve more problems.
 
