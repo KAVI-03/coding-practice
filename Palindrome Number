@@ -1,0 +1,10 @@
+# 🚀9. Palindrome Number
+
+class Solution:
+    def isPalindrome(self, x: int) -> bool:
+        n=str(x)
+        temp=n[::-1]
+        if(temp==n):
+            return True
+        else:
+            return False
