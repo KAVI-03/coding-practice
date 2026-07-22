@@ -1,0 +1,12 @@
+#🚀2520. Count the Digits That Divide a Number
+
+class Solution:
+    def countDigits(self, num: int) -> int:
+        count1=0
+        a=(str(num))
+        for i in range(len(a)):
+            val=num%int(a[i])
+            if(val==0):
+                count1=count1+1
+        return count1
+        
